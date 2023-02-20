@@ -1,0 +1,6 @@
+print("Hello, type your name: ")
+n = str(input())
+print("where are you now?: ")
+p = str(input())
+print("Hello",n,"how is the weather like in",p + "?")
+print(f"Hello {n} how is the weather like in {p}?")
